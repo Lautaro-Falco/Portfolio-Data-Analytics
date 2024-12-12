@@ -6,5 +6,5 @@ Este proyecto incluye un dashboard interactivo creado en Excel para analizar las
 ![Dashboard de ejemplo](https://github.com/Lautaro-Falco/Portfolio-Data-Analytics/blob/main/Excel_Project/PortfolioExcel.PNG)
 
 ## Descarga el archivo
-[Descargar el archivo Excel](https://github.com/Lautaro-Falco/Portfolio-Data-Analytics/blob/main/Excel_Project/PF.LautaroFalco.xlsx)
+[Descargar el archivo Excel](https://github.com/user-attachments/files/18117761/PF.LautaroFalco.xlsx)
 
