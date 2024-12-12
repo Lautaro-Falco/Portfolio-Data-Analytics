@@ -14,17 +14,17 @@
   - 
 ## **Capturas de pantalla**:
 - **Portada**:
-  ![Portada del Dashboard](https://github.com/Lautaro-Falco/Portfolio-Data-Analytics/blob/main/Tableau_Project/Portada%20Tableau.jpg)
+  ![Portada del Dashboard](https://github.com/Lautaro-Falco/Portfolio-Data-Analytics/blob/main/Tableau_Project/Portada%20tableau.PNG)
 
 - **Ventas**:
-  ![Ventas del Dashboard](https://github.com/Lautaro-Falco/Portfolio-Data-Analytics/blob/main/Tableau_Project/Ventas%20Tableau.jpg)
+  ![Ventas del Dashboard](https://github.com/Lautaro-Falco/Portfolio-Data-Analytics/blob/main/Tableau_Project/Ventas.jpg)
 
 - **Análisis por país y continente**:
-  ![Análisis por país y continente](https://github.com/Lautaro-Falco/Portfolio-Data-Analytics/blob/main/Tableau_Project/Pais%20Continente%20Tableau.jpg)
+  ![Análisis por país y continente](https://github.com/Lautaro-Falco/Portfolio-Data-Analytics/blob/main/Tableau_Project/Pais-Continente.jpg)
 
 - **Análisis por categoría/cliente**:
-  ![Análisis por categoría/cliente](https://github.com/Lautaro-Falco/Portfolio-Data-Analytics/blob/main/Tableau_Project/Categoria%20Cliente%20Tableau.jpg)
+  ![Análisis por categoría/cliente](https://github.com/Lautaro-Falco/Portfolio-Data-Analytics/blob/main/Tableau_Project/Categoria-Clientes.jpg)
 
 - **Acceso al dashboard**:  
-  [Ver Proyecto en Tableau Public](https://public.tableau.com/profile/tu-enlace)
+  [Ver Proyecto en Tableau Public](https://public.tableau.com/views/PFTableauLautaroFalco/Portada?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
