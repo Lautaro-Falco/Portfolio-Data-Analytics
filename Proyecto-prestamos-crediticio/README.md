@@ -19,4 +19,6 @@ El dashboard incluye:
 
 
 ## Descarga el archivo
-[Descargar el archivo Excel](https://github.com/Lautaro-Falco/Portfolio-Data-Analytics/raw/main/Excel_Project/PF.LautaroFalco.xlsx)
+[Descargar el archivo Excel](https://github.com/Lautaro-Falco/Portfolio-Data-Analytics/raw/main/Proyecto-prestamos-crediticio/Proyecto-Personal-Crediticio.xlsx)
+
+
