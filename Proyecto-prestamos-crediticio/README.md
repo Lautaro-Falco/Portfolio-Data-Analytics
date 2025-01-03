@@ -15,7 +15,8 @@ El dashboard incluye:
   - Filtros dinámicos por categoría de préstamos.
 
 ## Vista previa
-![Dashboard de ejemplo](https://github.com/Lautaro-Falco/Portfolio-Data-Analytics/blob/main/Excel_Project/PortfolioExcel.PNG)
+![Dashboard de ejemplo](https://github.com/Lautaro-Falco/Portfolio-Data-Analytics/blob/main/Proyecto-prestamos-crediticio/Dash%20Banco.PNG)
+
 
 ## Descarga el archivo
 [Descargar el archivo Excel](https://github.com/Lautaro-Falco/Portfolio-Data-Analytics/raw/main/Excel_Project/PF.LautaroFalco.xlsx)
