@@ -18,4 +18,4 @@ _A continuación, se muestran capturas del dashboard:_
 
 ## 📥 Descargar el Proyecto  
 Puedes descargar el archivo `.pbix` desde el siguiente enlace:  
-[📎 Descargar Proyecto Power BI](https://github.com/Lautaro-Falco/Portfolio-Data-Analytics/blob/main/Pf-powerbi-CoderHouse/Proyecto%20Final%20Falco..pbix)  
+[📎 Descargar Proyecto Power BI](https://github.com/Lautaro-Falco/Portfolio-Data-Analytics/raw/main/Pf-powerbi-CoderHouse/Proyecto%20Final%20Falco..pbix)  
