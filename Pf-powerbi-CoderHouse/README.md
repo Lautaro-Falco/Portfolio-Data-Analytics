@@ -8,7 +8,8 @@ Utiliza un conjunto de datos con información detallada sobre clientes, producto
 - ✅ Comparación de ventas por región y vendedor 🌍  
 - ✅ Evaluación del rendimiento de productos y categorías 🏷️  
 - ✅ Seguimiento de tendencias de ventas 📈  
-
+- ✅ **Versión optimizada para dispositivos móviles 📱**
+  
 ## 📸 Capturas del Dashboard  
 _A continuación, se muestran capturas del dashboard:_  
 
