@@ -11,7 +11,7 @@
   - Gráficos avanzados y atractivos.  
   - Filtración por continentes, categoria y fecha.  
   - Publicado en Tableau Public para fácil acceso.
-  - 
+    
 ## **Capturas de pantalla**:
 - **Portada**:
   ![Portada del Dashboard](https://github.com/Lautaro-Falco/Portfolio-Data-Analytics/blob/main/Tableau_Project/Portada%20tableau.PNG)
