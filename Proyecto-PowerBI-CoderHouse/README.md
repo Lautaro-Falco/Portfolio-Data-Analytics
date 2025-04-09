@@ -24,19 +24,20 @@ Este proyecto presenta un **dashboard interactivo** desarrollado en **Power BI**
 _A continuación se presentan algunas capturas de pantalla del dashboard:_
 
 - **Vista General (Overview)**:  
-  ![Overview](https://github.com/Lautaro-Falco/Portfolio-Data-Analytics/blob/main/Pf-powerbi-CoderHouse/Overview.jpg)
+  ![Overview](https://github.com/Lautaro-Falco/Portfolio-Data-Analytics/blob/main/Proyecto-PowerBI-CoderHouse/Overview.jpg)
 
 - **Ventas**:  
-  ![Ventas](https://github.com/Lautaro-Falco/Portfolio-Data-Analytics/blob/main/Pf-powerbi-CoderHouse/Ventas.jpg)
+  ![Ventas](https://github.com/Lautaro-Falco/Portfolio-Data-Analytics/blob/main/Proyecto-PowerBI-CoderHouse/Ventas.jpg)
 
 ## 📥 **Descargar el Proyecto**
 
 Puedes descargar el archivo `.pbix` del proyecto desde el siguiente enlace:
 
-- **[📎 Descargar Proyecto Power BI](https://github.com/Lautaro-Falco/Portfolio-Data-Analytics/raw/main/Pf-powerbi-CoderHouse/Proyecto%20Final%20Falco..pbix)**
+- **[📎 Descargar Proyecto Power BI](https://github.com/Lautaro-Falco/Portfolio-Data-Analytics/raw/main/Proyecto-PowerBI-CoderHouse/Proyecto%20Final%20Falco..pbix)**
 
 ## 🧠 **Herramientas utilizadas**
 
 - **Power BI**: Para la creación de visualizaciones interactivas y análisis de datos.
 - **Excel**: Para la preparación y limpieza de datos antes de importarlos a Power BI.
 - **GitHub**: Para almacenar el archivo del proyecto y facilitar su acceso.
+
