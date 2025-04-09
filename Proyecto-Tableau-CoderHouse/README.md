@@ -19,7 +19,7 @@ Este proyecto fue desarrollado como parte de mis estudios de Data Science, utili
    👉 [Acceder al Dashboard de Importaciones y Exportaciones](https://public.tableau.com/app/profile/lautaro.falco/viz/PFTableauLautaroFalco/Portada)
 
 2. **Documentación completa del proyecto (descarga directa)**:  
-   👉 [Descargar Documentación Completa](https://github.com/Lautaro-Falco/Portfolio-Data-Analytics/blob/main/Proyecto-Tableau-CoderHouse/Documentacion%20Proyeco%20Final%20Importacion-Exportacion%20Lautaro%20Falco.docx)
+   👉 [Descargar Documentación Completa](https://github.com/Lautaro-Falco/Portfolio-Data-Analytics/raw/main/Proyecto-Tableau-CoderHouse/Documentacion%20Proyeco%20Final%20Importacion-Exportacion%20Lautaro%20Falco.docx)
 
 ## 📷 **Capturas del Proyecto**
 
