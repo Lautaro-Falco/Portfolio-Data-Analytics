@@ -21,22 +21,28 @@ El dashboard incluye las siguientes hojas, cada una diseñada para explorar dife
 ## 📸 **Capturas de pantalla del proyecto**:
 
 ### 1. **Portada del Dashboard**:
-   ![Portada del Dashboard](https://github.com/Lautaro-Falco/Portfolio-Data-Analytics/blob/main/PowerBI_Project/Portada%20Power%20Bi.jpg)
+   ![Portada del Dashboard](https://github.com/Lautaro-Falco/Portfolio-Data-Analytics/blob/main/Proyecto-DataAnalytics-CoderHouse/Portada%20Power%20Bi.jpg)
    
 ### 2. **Análisis por Estado**:
-   ![Análisis por Estado](https://github.com/Lautaro-Falco/Portfolio-Data-Analytics/blob/main/PowerBI_Project/Pais%20Power%20Bi.jpg)
+   ![Análisis por Estado](https://github.com/Lautaro-Falco/Portfolio-Data-Analytics/blob/main/Proyecto-DataAnalytics-CoderHouse/Pais%20Power%20Bi.jpg)
 
 ### 3. **Análisis por Producto**:
-   ![Análisis por Producto](https://github.com/Lautaro-Falco/Portfolio-Data-Analytics/blob/main/PowerBI_Project/Producto%20Power%20Bi.jpg)
+   ![Análisis por Producto](https://github.com/Lautaro-Falco/Portfolio-Data-Analytics/blob/main/Proyecto-DataAnalytics-CoderHouse/Producto%20Power%20Bi.jpg)
 
 ### 4. **Análisis por Clientes**:
-   ![Análisis por Clientes](https://github.com/Lautaro-Falco/Portfolio-Data-Analytics/blob/main/PowerBI_Project/Clientes%20Power%20Bi.jpg)
+   ![Análisis por Clientes](https://github.com/Lautaro-Falco/Portfolio-Data-Analytics/blob/main/Proyecto-DataAnalytics-CoderHouse/Clientes%20Power%20Bi.jpg)
 
 ## 📂 **Accede al Proyecto**
 
 Puedes descargar el archivo del proyecto Power BI en formato `.pbix` desde el siguiente enlace:
 
-- **[Descargar Proyecto Power BI](https://github.com/Lautaro-Falco/Portfolio-Data-Analytics/raw/main/PowerBI_Project/PF.Data.LautaroFalco.pbix)**
+- **[Descargar Proyecto Power BI](https://github.com/Lautaro-Falco/Portfolio-Data-Analytics/raw/main/Proyecto-DataAnalytics-CoderHouse/PF.DataAnalitycs.LautaroFalco.pbix)**
+
+## 📑 **Documentación del Proyecto**
+
+Accede a la documentación del proyecto en formato Word desde el siguiente enlace:
+
+- **[Descargar Documentación](https://github.com/Lautaro-Falco/Portfolio-Data-Analytics/raw/main/Proyecto-DataAnalytics-CoderHouse/Word%20PF%20Data.docx)**
 
 ## 🧠 **Herramientas utilizadas**
 
