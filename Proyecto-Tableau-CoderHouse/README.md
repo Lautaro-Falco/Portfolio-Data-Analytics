@@ -19,25 +19,25 @@ Este proyecto fue desarrollado como parte de mis estudios de Data Science, utili
    👉 [Acceder al Dashboard de Importaciones y Exportaciones](https://public.tableau.com/app/profile/lautaro.falco/viz/PFTableauLautaroFalco/Portada)
 
 2. **Documentación completa del proyecto**:  
-   👉 [Acceder a la documentación completa](EnlaceDocumentacion) *(Asegúrate de incluir el enlace correcto a la carpeta de documentación en Word)*
+   👉 [Acceder a la documentación completa](https://github.com/Lautaro-Falco/Portfolio-Data-Analytics/blob/main/Proyecto-Tableau-CoderHouse/Documentacion%20Proyeco%20Final%20Importacion-Exportacion%20Lautaro%20Falco.docx)
 
 ## 📷 **Capturas del Proyecto**
 
 1. **Portada**:  
-   ![Portada](LinkDeImagenPortada)  
-   [Ver en Tableau Public](https://public.tableau.com/app/profile/lautaro.falco/viz/PFTableauLautaroFalco/Portada)
+   ![Portada](https://github.com/Lautaro-Falco/Portfolio-Data-Analytics/blob/main/Proyecto-Tableau-CoderHouse/Portada%20tableau.PNG)  
+   
 
 2. **Ventas**:  
-   ![Ventas](LinkDeImagenVentas)  
-   [Ver en Tableau Public](https://public.tableau.com/app/profile/lautaro.falco/viz/PFTableauLautaroFalco/Ventas)
+   ![Ventas](https://github.com/Lautaro-Falco/Portfolio-Data-Analytics/blob/main/Proyecto-Tableau-CoderHouse/Ventas.jpg)  
+   
 
 3. **Análisis por País y Continente**:  
-   ![Análisis por País y Continente](LinkDeImagenPaisContinente)  
-   [Ver en Tableau Public](https://public.tableau.com/app/profile/lautaro.falco/viz/PFTableauLautaroFalco/AnalisisPorPaisContinente)
+   ![Análisis por País y Continente](https://github.com/Lautaro-Falco/Portfolio-Data-Analytics/blob/main/Proyecto-Tableau-CoderHouse/Pais-Continente.jpg)  
+
 
 4. **Análisis por Categoría/Cliente**:  
-   ![Análisis por Categoría/Cliente](LinkDeImagenCategoriaCliente)  
-   [Ver en Tableau Public](https://public.tableau.com/app/profile/lautaro.falco/viz/PFTableauLautaroFalco/AnalisisPorCategoriaCliente)
+   ![Análisis por Categoría/Cliente](https://github.com/Lautaro-Falco/Portfolio-Data-Analytics/blob/main/Proyecto-Tableau-CoderHouse/Categoria-Clientes.jpg)  
+
 
 ## 🧠 **Herramientas Utilizadas**
 
@@ -45,3 +45,4 @@ Este proyecto fue desarrollado como parte de mis estudios de Data Science, utili
 - **Excel**: Para la limpieza y preparación de los datos.
 - **Word**: Para la creación de la documentación del proyecto.
 - **GitHub**: Para alojar el código y los scripts utilizados.
+
