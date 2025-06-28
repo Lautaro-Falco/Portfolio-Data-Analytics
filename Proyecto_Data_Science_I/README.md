@@ -62,7 +62,6 @@ Este proyecto demuestra cómo una adecuada selección de variables y un buen pre
 **Lautaro Falco**  
 Estudiante de Ciencia de Datos | Explorador de problemas complejos con soluciones simples.  
 📫 Contacto: https://www.linkedin.com/in/lautaro-gabriel-falco/
-🌐 Portfolio completo: [lautaro-falco.github.io](https://lautaro-falco.github.io/) 
 
 ---
 
